@@ -1,0 +1,24 @@
+{
+  "name": "chat-teste",
+  "version": "1.0.0",
+  "description": "chat para teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/renatolcosta/chat-teste.git"
+  },
+  "author": "Renato Costa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renatolcosta/chat-teste/issues"
+  },
+  "homepage": "https://github.com/renatolcosta/chat-teste#readme",
+  "dependencies": {
+    "angular": "^1.6.3",
+    "express": "^4.10.2",
+    "socket.io": "^1.7.3"
+  }
+}
